@@ -1,0 +1,4 @@
+
+COMO COMPILAR
+gcc practica.c -o practica
+./practica
